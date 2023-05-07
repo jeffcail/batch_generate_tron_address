@@ -27,3 +27,9 @@
 
 效果:
 ![avatoar](./4wei.png)
+
+6. 需要Mac、windows、linux程序的可以通过以下联系方式获取
+
+Telegram: https://t.me/laomaok
+
+weixin: laomao12a
