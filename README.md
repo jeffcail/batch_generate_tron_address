@@ -5,8 +5,8 @@ go写的波场靓号批量生成工具。
 分为两个版本： 体验版 ｜ 提速版
 
 
-####  提速版: 可离线断网批量生成波场地址靓号，每秒生成地址可达5000万左右
-####  体验版: 可离线断网批量生成波场地址靓号，每秒生成地址1个
+####  提速版: 可离线断网批量生成波场地址靓号，每秒生成地址可达5000万左右，支持尾号多种格式靓号
+####  体验版: 可离线断网批量生成波场地址靓号，每秒生成地址1个,只支持尾号后四位一种格式靓号
 
 #### 体验版
 windows
@@ -36,18 +36,21 @@ linux
    ```vim
    ./batch_generate_mac -g 1000000 -w 4 // 后四位连号
    ./batch_generate_mac -g 1000000 -w 6 // 后六位连号
+   ./batch_generate_mac -g 1000000 -w 8 // 后八位连号
    ```
    
     windows
     ```cmd
     batch_generate_windows -g 1000000 -w 4 // 后四位连号
     batch_generate_windows -g 1000000 -w 6 // 后六位连号
+    batch_generate_windows -g 1000000 -w 8 // 后八位连号
     ```
    
    linux
    ```vim
    batch_generate_linux -g 1000000 -w 4 // 后四位连号
    batch_generate_linux -g 1000000 -w 6 // 后六位连号
+   batch_generate_linux -g 1000000 -w 8 // 后八位连号
    ```
 
 
@@ -60,7 +63,7 @@ linux
 效果:
 ![avatoar](./4wei.png)
 
-6. 需要Mac、windows、linux程序的可以通过以下联系方式获取
+6. 需要提速版 Mac、windows、linux程序的可以通过以下联系方式获取
 
 Telegram: https://t.me/laomaok
 
