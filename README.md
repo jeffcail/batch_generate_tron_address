@@ -6,12 +6,12 @@ go写的波场靓号批量生成工具。
 
 
 ####  提速版: 可离线断网批量生成波场地址靓号，每秒生成地址可达5000万左右，支持尾号多种格式靓号
-####  体验版: 可离线断网批量生成波场地址靓号，每秒生成地址1个,只支持尾号后四位一种格式靓号
+####  体验版: 可离线断网批量生成波场地址靓号，每秒生成地址1个,只支持尾号后四位连号一种格式靓号
 
 #### 体验版
 windows
 ```cmd
-batch_generate_windows_tiyanban // 后四位连号
+batch_generate_windows_tiyanban.exe // 后四位连号
 ```
 
 mac
@@ -41,9 +41,9 @@ linux
    
     windows
     ```cmd
-    batch_generate_windows -g 1000000 -w 4 // 后四位连号
-    batch_generate_windows -g 1000000 -w 6 // 后六位连号
-    batch_generate_windows -g 1000000 -w 8 // 后八位连号
+    batch_generate_windows.exe -g 1000000 -w 4 // 后四位连号
+    batch_generate_windows.exe -g 1000000 -w 6 // 后六位连号
+    batch_generate_windows.exe -g 1000000 -w 8 // 后八位连号
     ```
    
    linux
