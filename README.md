@@ -68,3 +68,7 @@ linux
 Telegram: https://t.me/laomaok
 
 weixin: laomao12a
+
+
+### 私钥探测碰撞器 
+<a href="https://github.com/jeffcail/tron_collider" target="_blank">私钥探测碰撞器</a>
