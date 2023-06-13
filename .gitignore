@@ -1,9 +1,0 @@
-.idea
-utils
-main.go
-go.mod
-go.sum
-4位靓号.txt
-batch_generate_windows.exe
-batch_generate_mac
-batch_generate_linux
