@@ -74,4 +74,4 @@ weixin: laomao12a
 <a href="https://github.com/jeffcail/tron_collider" target="_blank">私钥探测碰撞器</a>
 
 ### 波场钱包源码
-<a href="https://github.com/jeffcail/-wallet" target="_blank">波场钱包源码</a>
+<a href="https://github.com/jeffcail/tron-wallet" target="_blank">波场钱包源码</a>
