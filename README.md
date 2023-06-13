@@ -1,6 +1,6 @@
 ## batch_generate_tron_address
 
-go写的波场靓号批量生成工具。
+go写的波场靓号批量生成工具。(非开源，需要购买)
 
 分为两个版本： <font color="blue">体验版 (体验版不在提供，需要的可直接购买提速版)</font>｜ 提速版 
 
