@@ -26,7 +26,7 @@ linux
 
 
 
-#### 提速版 通过下方联系方式获取
+#### 使用教程
 
 1. 通过match.txt格式配置需要的靓号， 格式非常简单
 
@@ -66,8 +66,6 @@ linux
 6. 需要提速版 Mac、windows、linux程序的可以通过以下联系方式获取
 
 Telegram: https://t.me/laomaok
-
-weixin: laomao12a
 
 
 ### 私钥探测碰撞器程序 
